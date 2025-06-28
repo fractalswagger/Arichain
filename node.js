@@ -141,7 +141,7 @@ for(a = 0; a <10000;a++){
 
     try{
       const randominumber = getRandomInt(1, 7)
-      // Transfer tokens
+      // Transfer tokens (Now No work)
       console.log(chalk.green('Transferring tokens...'));
       const transferResult = await arichain.transferToken(
         email,
