@@ -1,6 +1,6 @@
 {
   "name": "arichain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "auto reff arichain",
   "main": "main.js",
   "scripts": {
